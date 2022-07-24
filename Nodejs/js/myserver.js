@@ -19,7 +19,6 @@
         case '/home':
             res.end('home page!\n');
             break;
-            break;
         default:
             res.end('not found!\n');
             break;
